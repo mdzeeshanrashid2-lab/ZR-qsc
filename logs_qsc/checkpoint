@@ -1,0 +1,2 @@
+model_checkpoint_path: "best_asr_model_SNR15.ckpt"
+all_model_checkpoint_paths: "best_asr_model_SNR15.ckpt"
